@@ -1,0 +1,26 @@
+{
+  "name": "sdt-discord-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot for Shadowverse Deck Tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadowversedecktracker/sdt-discord-bot.git"
+  },
+  "keywords": [
+    "shadowverse",
+    "deck",
+    "deck",
+    "tracker",
+    "ccg"
+  ],
+  "author": "de_squid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shadowversedecktracker/sdt-discord-bot/issues"
+  },
+  "homepage": "https://github.com/shadowversedecktracker/sdt-discord-bot#readme"
+}
